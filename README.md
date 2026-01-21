@@ -17,7 +17,7 @@
 
 ```typescript
 const sahil = {
-  location: "Multan, Pakistan 🇵🇰",
+  location: "Lahore, Pakistan 🇵🇰",
   currentFocus: "Building AI-powered applications & Urdu language solutions",
   learning: ["Next.js", "TypeScript", "AI/ML", "Advanced React patterns"],
   mantra: "Clean code, impactful solutions 💪",
