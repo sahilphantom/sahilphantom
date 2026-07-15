@@ -24,7 +24,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0D1117?style=flat-square&logo=linkedin&logoColor=FFB000&labelColor=0D1117&color=161B22)](https://www.linkedin.com/in/sahil-mahmood-b50159337/)
 [![Mail](https://img.shields.io/badge/MAIL-0D1117?style=flat-square&logo=gmail&logoColor=FFB000&labelColor=0D1117&color=161B22)](mailto:sahilmahmood188@gmail.com)
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-0D1117?style=flat-square&logo=vercel&logoColor=FFB000&labelColor=0D1117&color=161B22)](https://sahilmdev.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-0D1117?style=flat-square&logo=vercel&logoColor=FFB000&labelColor=0D1117&color=161B22)](https://sahilm-dev.vercel.app/)
 [![Views](https://komarev.com/ghpvc/?username=sahilphantom&style=flat-square&color=161B22&labelcolor=0D1117&label=PROFILE+VIEWS)](https://github.com/sahilphantom)
 
 </div>
