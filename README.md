@@ -4,20 +4,20 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=2800&pause=1200&color=FFB000&center=true&vCenter=true&width=560&lines=sahil%40dev%3A~%24+whoami;%3E+Full-Stack+Developer;%3E+AI+%2F+ML+Engineer;%3E+Urdu+NLP+%26+OCR+Builder" alt="terminal typing" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=21&duration=2600&pause=1200&color=FFB000&center=true&vCenter=true&width=600&lines=sahil%40dev%3A~%24+cat+about.md;%3E+full-stack+dev%2C+Lahore%2C+Pakistan;%3E+building+the+Urdu+tooling+stack;%3E+currently%3A+Vidly+%2B+Urdu+Lens" alt="terminal typing" />
 
 </div>
 
 <br/>
 
 ```
-┌──────────────────────────────────────────────────────────┐
-│  session   : sahil_mahmood                                │
-│  location  : Lahore, Pakistan                              │
-│  role      : Full-Stack Developer · AI/ML Enthusiast       │
-│  focus     : AI-powered apps · Urdu-language infrastructure│
-│  status    : shipping                                      │
-└──────────────────────────────────────────────────────────┘
+┌ about ─────────────────────────────────────────────────────┐
+│ name       sahil mahmood                                   │
+│ base       lahore, pakistan                                │
+│ role       full-stack developer / ai-ml engineer           │
+│ focus      urdu-language infrastructure, ai-powered apps   │
+│ open to    select freelance and collaboration work         │
+└──────────────────────────────────────────────────────────────┘
 ```
 
 <div align="center">
@@ -31,138 +31,69 @@
 
 <br/>
 
-### `~/stack.yaml`
+### `$ cat stack.yaml`
 
 ```yaml
-languages:
-  core:      [JavaScript, TypeScript, Python]
-  systems:   [C++, "C#"]
-  web:       [PHP, HTML5, CSS3]
-
-frontend:
-  framework: [React, Next.js]
-  state:     [Redux, Context API]
-  routing:   [React Router]
-  forms:     [React Hook Form]
-  ui_data:   [Ant Design, Chart.js, Three.js]
-
-backend:
-  runtime:   [Node.js, Express]
-  php_stack: [Laravel, Livewire]
-  realtime:  [Socket.io]
-  auth:      [JWT]
-
-data_infra:
-  sql:       [PostgreSQL, MySQL]
-  nosql:     [MongoDB]
-  cache:     [Redis]
-  baas:      [Supabase]
-  hosting:   [Vercel, Netlify, Render]
-
-tooling:
-  vcs:       [Git, GitHub]
-  api:       [Postman]
-  quality:   [ESLint, Nodemon]
-  design:    [Figma, Framer, Canva, Dribbble]
+languages:  [JavaScript, TypeScript, Python, C++, "C#", PHP]
+frontend:   [React, Next.js, Redux, React Hook Form, Three.js, Chart.js]
+backend:    [Node.js, Express, Laravel, Livewire, Socket.io, JWT]
+data_infra: [PostgreSQL, MySQL, MongoDB, Redis, Supabase, Vercel]
+tooling:    [Git, GitHub, Figma, Postman, ESLint, Framer]
 ```
 
 <br/>
 
-### `~/projects --list`
+### `$ ./featured.sh`
 
-<table>
-<tr>
-<td width="50%" valign="top">
+Most of my time this year has gone into **[Vidly](https://www.getvidly.com/)**, an AI tool that mines competitor comments and view data on YouTube to surface content gaps and validate video ideas before anyone films anything. It's live and in active use, not a side-project demo.
 
-**[`vidly/`](https://www.getvidly.com/)**
-AI-powered YouTube intelligence — mines competitor comments and view data to surface content gaps and validate video ideas before you film.
-
-`AI` `YouTube API` `Analytics`
-[visit →](https://www.getvidly.com/)
-
-</td>
-<td width="50%" valign="top">
-
-**[`urdu-lens/`](https://github.com/sahilphantom/urdu_Lens)**
-OCR engine for Urdu script — extraction and processing built for a language most tooling ignores.
-
-`OCR` `Python` `Computer Vision`
-[repo →](https://github.com/sahilphantom/urdu_Lens)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**[`nexabuy/`](https://github.com/sahilphantom/nexabuy_app)**
-End-to-end e-commerce platform — cart, checkout, payments, and auth wired together as a single deployable app.
-
-`React` `Node.js` `Payments`
-[repo →](https://github.com/sahilphantom/nexabuy_app)
-
-</td>
-<td width="50%" valign="top">
-
-**[`morent/`](https://github.com/sahilphantom/Morent)**
-Car rental platform — booking flow, fleet management, and a dashboard for renters and owners.
-
-`Next.js` `Booking System`
-[repo →](https://github.com/sahilphantom/Morent)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**[`fitness-app/`](https://github.com/sahilphantom/fitness_app)**
-Workout tracker — logs sessions, tracks progress trends, sets goals.
-
-`React Native` `Tracking`
-[repo →](https://github.com/sahilphantom/fitness_app)
-
-</td>
-<td width="50%" valign="top">
-
-**[`portfolio/`](https://sahilmdev.netlify.app/)**
-Personal site — projects, case studies, and contact, tuned for load speed.
-
-`Next.js` `Performance`
-[visit →](https://sahilmdev.netlify.app/)
-
-</td>
-</tr>
-</table>
+The rest goes into **[Urdu Lens](https://github.com/sahilphantom/urdu_Lens)**, an OCR engine for Urdu script, since most OCR tooling still treats the language as an afterthought.
 
 <br/>
 
-### `~/stats --verbose`
+### `$ ls repos/`
+
+<div align="center">
+
+<a href="https://github.com/sahilphantom/urdu_Lens">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=sahilphantom&repo=urdu_Lens&bg_color=0D1117&title_color=FFB000&icon_color=FFB000&text_color=C9D1D9&border_color=30363D" width="49%"/>
+</a>
+<a href="https://github.com/sahilphantom/nexabuy_app">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=sahilphantom&repo=nexabuy_app&bg_color=0D1117&title_color=FFB000&icon_color=FFB000&text_color=C9D1D9&border_color=30363D" width="49%"/>
+</a>
+
+<a href="https://github.com/sahilphantom/Morent">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=sahilphantom&repo=Morent&bg_color=0D1117&title_color=FFB000&icon_color=FFB000&text_color=C9D1D9&border_color=30363D" width="49%"/>
+</a>
+<a href="https://github.com/sahilphantom/fitness_app">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=sahilphantom&repo=fitness_app&bg_color=0D1117&title_color=FFB000&icon_color=FFB000&text_color=C9D1D9&border_color=30363D" width="49%"/>
+</a>
+
+</div>
+
+<br/>
+
+### `$ ./stats.sh --verbose`
 
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=sahilphantom&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FFB000&icon_color=FFB000&text_color=C9D1D9&border_color=30363D&rank_icon=github" width="49%"/>
-<img src="https://nirzak-streak-stats.vercel.app/?user=sahilphantom&background=0D1117&border=30363D&ring=FFB000&fire=FFB000&currStreakLabel=FFB000&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFB000&sideNums=C9D1D9" width="49%"/>
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilphantom&layout=compact&hide_border=true&bg_color=0D1117&title_color=FFB000&text_color=C9D1D9&border_color=30363D&langs_count=8" width="49%"/>
 
-</div>
+<img src="https://nirzak-streak-stats.vercel.app/?user=sahilphantom&background=0D1117&border=30363D&ring=FFB000&fire=FFB000&currStreakLabel=FFB000&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFB000&sideNums=C9D1D9" width="100%"/>
 
-<br/>
-
-### `~/contributions --graph`
-
-<div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=sahilphantom&hide_border=true&bg_color=0D1117&color=FFB000&line=FFB000&point=C9D1D9&area=true&area_color=FFB000" width="100%"/>
+
 </div>
 
 <br/>
 
 ```
-┌──────────────────────────────────────────────────────────┐
-│  $ contact --open                                         │
-│  > mail    sahilmahmood188@gmail.com                       │
-│  > site    sahilmdev.netlify.app                            │
-│  > linked  /in/sahil-mahmood-b50159337                      │
-└──────────────────────────────────────────────────────────┘
+┌ contact ───────────────────────────────────────────────────┐
+│ mail    sahilmahmood188@gmail.com                          │
+│ site    sahilm-dev.vercel.app                               │
+│ linked  /in/sahil-mahmood-b50159337                          │
+└──────────────────────────────────────────────────────────────┘
 ```
 
 <div align="center">
