@@ -6,9 +6,11 @@
 
 Building intelligent products at the intersection of web engineering and applied AI.
 
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://sahilm-dev.vercel.app/)
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:sahilmahmood188@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahil-mahmood-b50159337/)
 [![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-F58024?style=flat&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/32974204)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/sahilphantom)
 
 </div>
 
@@ -60,22 +62,59 @@ A production-oriented SaaS platform that brings structured, AI-guided preparatio
 <tr>
 <td width="50%" valign="top">
 
-**AI Harbor**
-AI-powered workspace/automation tooling exploring agentic workflows and LLM orchestration patterns.
+**Vidly** — AI / Full Stack / SaaS
+YouTube comment sentiment analysis platform processing 1,000 comments in 90 seconds, using LangGraph parallel pipelines, BullMQ/Redis job queues, and WebSocket progress tracking.
 
-`Repo: link pending`
+`Stack: Next.js · LangGraph · BullMQ · Redis · Socket.io`
+[Live](https://www.getvidly.com/) · [Frontend](https://github.com/Yosf96633/Vidly_frontend) · [Backend](https://github.com/Yosf96633/Vidly_backend)
 
 </td>
 <td width="50%" valign="top">
 
-**UrduLens**
-A vision/NLP-driven tool focused on Urdu-language text understanding and processing.
+**UrduLens OCR** — AI System
+Urdu text recognition system with 84% accuracy trained on 10,000+ images, pairing a React frontend with a Python ML backend for real-time extraction.
 
-`Repo: link pending`
+`Stack: React · Python · FastAPI · OCR`
+[Live Demo](https://urdulens2.netlify.app/) · [GitHub](https://github.com/sahilphantom/urdu_Lens)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**VizzTube** — SaaS / Analytics
+Full-stack YouTube analytics platform with video search, channel insights, Stripe subscriptions, role-based access, and a bilingual (JA/EN) UI.
+
+`Stack: React · Node.js · MongoDB · Stripe`
+[Live Demo](https://youtube-research.netlify.app/)
+
+</td>
+<td width="50%" valign="top">
+
+**PindEats** — Full Stack App
+Food delivery platform with Food, Gifts & Properties listings, user and rider dashboards, and a referral system with WhatsApp sharing and QR codes.
+
+`Stack: Next.js · Node.js · Express · MongoDB`
+[Live](https://www.pindeats.com/)
 
 </td>
 </tr>
 </table>
+
+More projects (e-commerce, dev tools, landing pages) are on the [portfolio site](https://sahilm-dev.vercel.app/#work).
+
+<br>
+
+## AI Harbor — Co-Founded Studio
+
+**[aiharbor.agency](https://www.aiharbor.agency/)** — an AI & full-stack development studio I co-founded with two other engineers, helping startups and small businesses ship SaaS MVPs, dashboards, and AI automation workflows.
+
+**Shipped work includes:**
+- **SkoolZoom AI** — conversational triage pipeline with semantic search, vector retrieval, and session-aware memory
+- **DigiBill** — a 20-module FBR e-invoicing compliance SaaS built on a 37-component design system
+- **Mozzine Technologies** — an agency site built around service offerings and case studies
+
+`Stack: Next.js · TypeScript · n8n · PostgreSQL`
 
 <br>
 
