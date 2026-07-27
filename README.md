@@ -143,22 +143,4 @@ LangChain · LangGraph · RAG Pipelines · ChromaDB · Ollama
 
 <br>
 
-## GitHub Stats
 
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.shion.dev/api?username=sahilphantom&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=sahilphantom&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-![Streak Stats](https://streak-stats.demolab.com/?user=sahilphantom&theme=tokyonight&hide_border=true)
-
-</div>
-
-<br>
-
-<div align="center">
-
-*Open to collaborating on AI-driven products and full-stack engineering work.*
-
-</div>
